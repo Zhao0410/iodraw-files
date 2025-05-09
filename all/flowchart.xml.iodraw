@@ -56,19 +56,13 @@
           <mxGeometry x="370" y="450" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-16" value="预埋管规格&lt;div&gt;锚垫板规格、开孔&lt;/div&gt;&lt;div&gt;锚箱、槽口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="450" width="160" height="80" as="geometry" />
+          <mxGeometry x="570" y="450" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7xOzhbzQknnxOi7obsCT-7" target="7xOzhbzQknnxOi7obsCT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;提取关键信息&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="770" y="420" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7xOzhbzQknnxOi7obsCT-21" value="客户需求提取&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="254" y="585" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7xOzhbzQknnxOi7obsCT-22" value="预埋管规格&lt;div&gt;锚垫板开孔&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="585" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
