@@ -82,7 +82,10 @@
           <mxGeometry x="690" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-25" value="我司产品体系是否能满足设计需求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="620" width="290" height="90" as="geometry" />
+          <mxGeometry x="190" y="630" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7xOzhbzQknnxOi7obsCT-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="515" y="630" width="290" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
