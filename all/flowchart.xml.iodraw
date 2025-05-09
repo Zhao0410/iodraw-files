@@ -133,8 +133,8 @@
         <mxCell id="7xOzhbzQknnxOi7obsCT-36" value="与客户交流，给出解决方案" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="655" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7xOzhbzQknnxOi7obsCT-41" value="与客户交流，给出解决方案" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="665" width="165" height="60" as="geometry" />
+        <mxCell id="7xOzhbzQknnxOi7obsCT-41" value="与客户交流，给出更改方案" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="665" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
