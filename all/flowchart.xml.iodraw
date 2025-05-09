@@ -104,6 +104,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7xOzhbzQknnxOi7obsCT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7xOzhbzQknnxOi7obsCT-26" target="7xOzhbzQknnxOi7obsCT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-26" value="产品配合是否存在问题" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="505" y="640" width="290" height="90" as="geometry" />
         </mxCell>
@@ -117,7 +120,7 @@
           <mxGeometry x="340" y="740" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-36" value="与客户交流，给出解决方案" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="640" width="165" height="60" as="geometry" />
+          <mxGeometry x="860" y="660" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
