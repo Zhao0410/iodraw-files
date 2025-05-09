@@ -200,7 +200,12 @@
           <mxGeometry x="1520" y="490" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7xOzhbzQknnxOi7obsCT-62" target="7xOzhbzQknnxOi7obsCT-71">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="630" />
+              <mxPoint x="1935" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7xOzhbzQknnxOi7obsCT-62" value="预埋管规格&lt;div&gt;锚垫板规格、开孔&lt;/div&gt;&lt;div&gt;锚箱、槽口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1710" y="490" width="160" height="100" as="geometry" />
